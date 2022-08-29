@@ -1,3 +1,5 @@
+# arxiv-reading-2020-08
+
 #agn #disk #reverberation-mapping #ztf
 
  [Hengxiao Guo et al., 2022-AGN Continuum Reverberation Mapping Based on Zwicky Transient Facility Light Curves](https://arxiv.org/pdf/2207.06432.pdf)
@@ -32,6 +34,7 @@
 	- short-wavelength continuum variations leading the longer one.
 
 #agn #luminosity 
+
 [Pflugradt_2022_Finding of a population of active galactic nuclei showing a significant luminosity decline in the past $\sim10^{3-4}$ yrs](https://arxiv.org/pdf/2208.12286.pdf)
 - AGN subclass
 	- strong activity at large scales ($\sim$1 kpc), weaker at small scales (< 10 pc).
@@ -41,6 +44,7 @@
 - 57 of 7653 AGNs, $L_{bol}$ (from MIR) one order of magnitude fainter than from [Oiii]$\lambda5007$ emission line.
 
 #agn #black-hole-mass #X-ray #variability
+
 [Akylas_2022_Black hole mass estimation using X-ray variability measurements in Seyfert galaxies](https://arxiv.org/pdf/2208.12490.pdf)
 - estimate the black hole mass via X-ray, i.e., **the normalised excess variance from X-ray**.
 - minimum requirements of light-curve duration and X-ray S/N.
