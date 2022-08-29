@@ -1,4 +1,5 @@
-# arxiv-reading-2022-08
+# Arxiv-reading-2022-08
+## Aug 12
 
 #agn #disk #reverberation-mapping #ztf
 
@@ -10,6 +11,8 @@
 	- CE size scales with continuum luminosity.
 	- black hole mass might biased.
 
+## Aug 15
+
 #agn #disk #lsst #reverberation-mapping #strategy
 
 [Kovacevic_2022_The LSST era of supermassive black holes accretion-disk reverberation mapping](https://arxiv.org/pdf/2208.06203.pdf)
@@ -19,6 +22,8 @@
 	- cadence: $\leq$ 5 days.
 
 #agn #ngc5548 #reddening #BLR
+
+## Aug 27
 
  [Gaskell_2022_Estimating reddening of the continuum and broad-line region of active galactic nuclei- the mean reddening of NGC 5548 and the size of the accretion disc](https://arxiv.org/abs/2208.11437)
 - estimate broad-line and continuum **reddenings** of NGC 5548.
@@ -32,6 +37,9 @@
 - Gliozzi et al., 2013 having interchanged the order of the driving and responding light curves when measuring the lags.
 - new findings:
 	- short-wavelength continuum variations leading the longer one.
+
+
+## Aug 29
 
 #agn #luminosity 
 
