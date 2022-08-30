@@ -85,8 +85,27 @@
 - [inverse-ray shooting method](https://github.com/rpoleski/MulensModel)
 
 #radio-quiet #agn 
+
 [Looking at Radio-Quiet AGN with Radio Polarimetry](https://arxiv.org/pdf/2201.03877.pdf)
 - radio emission mechanism in radio-quasars (RQQS) is and open question.
 	- low-power radio jets, winds, sf and coronal emission.
 - radio polarization and emission-line can help to distinguish between these scenarios
 - anti-correlation between polarized radio emission and [O iii] emission
+
+#grizli #slitless-spectroscopy #agn-group #jwst
+
+[K.Boyett_2022_Early results from GLASS-JWST. VI: Extreme rest-optical equivalent widths detected in NIRISS Wide Field Slitless Spectroscopy](https://arxiv.org/pdf/2207.13459.pdf)
+- Wide Field Slitless Spectroscopy (WFSS), SFGs (without the need for target pre-selection).
+- GLASS-JWST-ERS program
+	- NIRISS, $z \sim3.4$
+- constrain [Oiii]$\lambda5007$ EW (76 sample) SFGs.
+- strong correlation between the measured H$\beta$ and [Oiii]$\lambda5007$ EWs,
+	- high $\lambda5007$ EW require massive stars in young stellar pop, generate the high energy photons.
+
+#agn #X-ray #variability #rms-spectra
+
+[JingWei Hu_2022_A Systematic Study of the Short-Term X-ray Variability of Seyfert Galaxies I. Diversity of the X-ray Rms Spectra](https://arxiv.org/pdf/2208.05921.pdf)
+- X-ray short-term (1-100 ks timescale) variability for 78 seyferts, 426 deep XMM-Newton observations.
+- time-averaged spectra and rms spectra for entire sample
+	- common shape of the rms spectra is concave-down where the rms peaks at $\sim$ 1 keV
+	
