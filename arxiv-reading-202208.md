@@ -65,3 +65,28 @@
 [Burke_2022_Dwarf AGNs from Variability for the Origins of Seeds (DAVOS): Intermediate-mass black hole demographics from optical synoptic surveys](https://arxiv.org/pdf/2207.04092.pdf)
 - forward Monte Carlo model for forecasting the population of AGNs in dwarf galaxies via optical variability.
 - LSST, hourly cadence can constrain the IMBH mass.
+
+## Aug 30
+
+#agn #ngc5548 #variability 
+
+[Daniel Kynoch_2022_Multiple locations of near-infrared coronal lines in NGC 5548](https://arxiv.org/pdf/2208.12821.pdf)
+- variability of near-infrared coronal lines.
+- one-year long spectroscopic monitoring, weekly cadence.
+	- emission line fluxes and profile shapes.
+	- coronal lines broader than the low-ionisation forbidden lines and blueshifted.
+	- [S Viiii] and [Si Vi] coronal line profiles: broad wings, not seen in narrow cores.
+	- at least two coronal line region in AGN.
+	- ![[Screen Shot 2022-08-30 at 12.00.12 PM.png]]
+
+#microlensing #lightcurve #method 
+
+[Krol_2022_Gravitational Microlensing Events in the Optical Lightcurve of Active Galaxy S5 0716+714](https://arxiv.org/pdf/2208.13185.pdf)
+- [inverse-ray shooting method](https://github.com/rpoleski/MulensModel)
+
+#radio-quiet #agn 
+[Looking at Radio-Quiet AGN with Radio Polarimetry](https://arxiv.org/pdf/2201.03877.pdf)
+- radio emission mechanism in radio-quasars (RQQS) is and open question.
+	- low-power radio jets, winds, sf and coronal emission.
+- radio polarization and emission-line can help to distinguish between these scenarios
+- anti-correlation between polarized radio emission and [O iii] emission
