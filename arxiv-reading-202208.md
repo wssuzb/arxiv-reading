@@ -60,7 +60,7 @@
 - NuSTAR, normalised excess variance ($\sigma^2_{NXV}$) in 3-10 and 10-20 keV.
 - lineaer relationship, 0.4-0.25 dex uncertainty.
 
-#agn #dwarf-galaxy #imbh #variability 
+#agn #dwarf-galaxy #imbh #variability #DAVOS 
 
 [Burke_2022_Dwarf AGNs from Variability for the Origins of Seeds (DAVOS): Intermediate-mass black hole demographics from optical synoptic surveys](https://arxiv.org/pdf/2207.04092.pdf)
 - forward Monte Carlo model for forecasting the population of AGNs in dwarf galaxies via optical variability.
@@ -108,4 +108,15 @@
 - X-ray short-term (1-100 ks timescale) variability for 78 seyferts, 426 deep XMM-Newton observations.
 - time-averaged spectra and rms spectra for entire sample
 	- common shape of the rms spectra is concave-down where the rms peaks at $\sim$ 1 keV
+
+## Aug 31
+
+#agn #dwarf-galaxy #variability #DAVOS #DES #catalog
+
+[Burke_2022_Dwarf AGNs from Optical Variability for the Origins of Seeds (DAVOS): Insights from the Dark Energy Survey Deep Fields](https://arxiv.org/pdf/2111.03079.pdf)
+- 706 AGNs, $z<1.5$, three of DES deep fields (E2, C3 and X3), $\sim$ 4.64 deg$^2$.
+- DES ight curves, mean cadence of 7 days, a 6 year baseline, single-epoch imaging depth of up to $g\sim24.5$.
+- SED fitting for stellar mass estimation:
+	- 26 candidate dwarf AGNs (host stellar mass $M_\star<10^{9.5}M_\odot$).
+	- 15 candidates with short-timescale variability $<z>\sim0.4$.
 	
