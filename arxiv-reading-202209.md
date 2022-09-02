@@ -27,3 +27,11 @@
 	- log$M_{BH}\sim9.2-10.5$
 	- the most massive black hole candidate have well-defined spin constraint.
 	- SMBH grow via incoherent or chaotic accretion and/or SMBH-SMBH mergers.
+
+# Sep 2
+
+#agn #feedback #smbh #bass
+
+[Ricci_2022_BASS XXXVII: The role of radiative feedback in the growth and obscuration properties of nearby supermassive black holes](https://arxiv.org/pdf/2209.00014.pdf)
+- obscuration and SMBH, hard X-ray selected AGN.
+- strong decrease in the fraction of obscured sources above the Eddington limit for dusty gas (log$\lambda_\rm{Edd}\geq-2$) -> radiation-regulated unification model.

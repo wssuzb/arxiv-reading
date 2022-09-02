@@ -21,9 +21,11 @@
 	- 0 < $z$ < 7, >1000 quasars.
 	- cadence: $\leq$ 5 days.
 
-#agn #ngc5548 #reddening #BLR
+
 
 ## Aug 27
+
+#agn #ngc5548 #reddening #BLR
 
  [Gaskell_2022_Estimating reddening of the continuum and broad-line region of active galactic nuclei- the mean reddening of NGC 5548 and the size of the accretion disc](https://arxiv.org/abs/2208.11437)
 - estimate broad-line and continuum **reddenings** of NGC 5548.
@@ -31,7 +33,7 @@
 - interesting findings:
 	- the accretion disk size discrepancy is primarily due to the neglect of reddening? (also see Gaskell et al., 2017).
 
-#agn #PKS0558-504 #reverberation-mapping #disk 
+#agn #PKS0558-504 #reverberation-mapping #disk #time-lag 
 
 [Buitrago_2022_Revisiting the Continuum Reverberation Lags in the AGN PKS 0558−504.pdf](https://arxiv.org/pdf/2207.02474.pdf)
 - Gliozzi et al., 2013 having interchanged the order of the driving and responding light curves when measuring the lags.
