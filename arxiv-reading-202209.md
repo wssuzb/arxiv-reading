@@ -35,3 +35,18 @@
 [Ricci_2022_BASS XXXVII: The role of radiative feedback in the growth and obscuration properties of nearby supermassive black holes](https://arxiv.org/pdf/2209.00014.pdf)
 - obscuration and SMBH, hard X-ray selected AGN.
 - strong decrease in the fraction of obscured sources above the Eddington limit for dusty gas (log$\lambda_\rm{Edd}\geq-2$) -> radiation-regulated unification model.
+
+
+# Sep 6
+
+#agn-group #TESS #lightcurve 
+
+[Hinkle_2022_TESS Shines Light on the Origin of the Ambiguous Nuclear Transient ASASSN-18el](https://arxiv-export-lb.library.cornell.edu/pdf/2206.04071)
+- ambiguous nuclear transient (ANT) ASASSN-18el, TESS.
+- short-timescale stochastic variability, AGN?
+- DRW, $\hat{\sigma}=0.93\pm0.02, \tau_\rm{DRW}=20^{+15}_{-6}$ days.
+- during late stages of the flare, extreme AGN activity rather than a TDE.
+
+#agn-group #outflow #proposal
+
+[Keshet_2022_Ionization Distributions in Outflows of Active Galaxies: Universal Trends and Prospect of Future XRISM Observations](https://arxiv.org/abs/2206.15074)
