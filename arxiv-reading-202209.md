@@ -50,3 +50,23 @@
 #agn-group #outflow #proposal
 
 [Keshet_2022_Ionization Distributions in Outflows of Active Galaxies: Universal Trends and Prospect of Future XRISM Observations](https://arxiv.org/abs/2206.15074)
+
+# Sep 7
+
+#reverberation-mapping #dust #lightcurve #agn 
+
+[Dust Reverberation Mapping and Light-Curve Modelling of Zw229-015](https://arxiv.org/pdf/2209.01409.pdf)
+- dust rm lag of Zw229-015
+	- optical ground-based + $Kepler$ and $Spitzer$, 2010-2015.
+	- lags of $18.3\pm4.5$ days.
+- large increase in flux 2011-2012, in IR
+	- not a single dust component.
+	- distributed in an extended flat disk.
+	- angle of $49^{+3}_{-13}$ degrees.
+
+#reverberation-mapping #spectroscopy #blr #quasar
+
+[Spectroscopic reverberation mapping of Quasar PKS 0736+017: Broad-Line Region and Black-hole Mass](https://arxiv.org/pdf/2209.01649.pdf)
+- 100 spectra of radio-loud quasar JS 0736+017.
+- follows the BLR size-luminosity relation of AGN.
+
