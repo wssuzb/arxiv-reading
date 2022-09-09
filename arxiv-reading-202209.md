@@ -81,3 +81,22 @@
 - half-light radius of X-ray illuminated radii $\sim$ 3-4 greater than the standard disk.
 - non-illuminated discs are consistent with observations.
 - support the X-ray illumination in AGN.
+
+# Sep 9
+#jwst #ceers #host-galaxy #quasar 
+
+[Ding_2022_Opening the era of quasar host studies at high redshift with JWST](https://arxiv.org/pdf/2209.03359.pdf)
+- five quasars with $z\sim 1.6-3.5$ from SDSS and AEGIS.
+- jwst can detect quasar hosts at $z > 3$.
+- quasar hosts to be disk-like, lack merger signatures.
+- AGN feedback.
+
+#X-ray #quasar #lensed-quasar #agn 
+
+[Walton_2022_X-ray Absorption and Reprocessing in the z ∼ 2.5 Lensed Quasar 2MASS J1042+1641](https://arxiv.org/pdf/2209.03381.pdf)
+- X-ray observaton of $z\sim 2.5$, XMM-Newton, Chandra, NuSTAR.
+- strong X-ray absorption (Compton-thin), $N_{H}\sim 3-4\times10^{23}\rm{cm}^{-2}$ .
+- reprocessing by Cmpton-thick material.
+	- occurs in AGN torus.
+	- occurs in AGN disc.
+- X-ray and IR surveys can identify good lensed quasar candidates.
