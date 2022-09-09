@@ -70,3 +70,14 @@
 - 100 spectra of radio-loud quasar JS 0736+017.
 - follows the BLR size-luminosity relation of AGN.
 
+
+# Sep 8 
+
+#disk #agn #microlensing #disk-size
+
+[X-ray illuminated accretion discs and quasar microlensing disc sizes](https://arxiv.org/pdf/2207.12473.pdf)
+- half-light radius versus black hole mass, luminosity versus mass.
+- [KYNSED](https://projects.asu.cas.cz/dovciak/kynsed): spectral model for AGN SED.
+- half-light radius of X-ray illuminated radii $\sim$ 3-4 greater than the standard disk.
+- non-illuminated discs are consistent with observations.
+- support the X-ray illumination in AGN.
