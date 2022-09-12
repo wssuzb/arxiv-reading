@@ -100,3 +100,10 @@
 	- occurs in AGN torus.
 	- occurs in AGN disc.
 - X-ray and IR surveys can identify good lensed quasar candidates.
+
+# Sep 12
+#catalog #quasar  #sdss-dr16 
+
+[A Catalog of Quasar Properties from Sloan Digital Sky Survey Data Release 16](https://arxiv.org/pdf/2209.03987.pdf)
+- 750,414 broad-line quasars in SDSS DR16Q
+- $0.1<z<6$ and $44<\rm{log(L_{bol} erg s^{-1})}<48$.
