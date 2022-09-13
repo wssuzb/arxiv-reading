@@ -107,3 +107,14 @@
 [A Catalog of Quasar Properties from Sloan Digital Sky Survey Data Release 16](https://arxiv.org/pdf/2209.03987.pdf)
 - 750,414 broad-line quasars in SDSS DR16Q
 - $0.1<z<6$ and $44<\rm{log(L_{bol} erg s^{-1})}<48$.
+
+
+# Sep 13
+
+#feedback #agn  #ngc3982
+
+[AGN feedback in NGC 3982](https://arxiv.org/pdf/2209.04914.pdf)
+- AGN impact on sf can be searched in galaxies by ultraviolet + optical integral field unit data.
+	- ultraviolet flux: trace sf.
+	- integral field unit data: reveal dust attenuation, gas ionisation mechanisms and gas stellar kinematics.
+- sf suppression in central regions of the galaxy (e.g., negative AGN feedback), enhanced sf in outer regions.
