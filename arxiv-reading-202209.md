@@ -118,3 +118,22 @@
 	- ultraviolet flux: trace sf.
 	- integral field unit data: reveal dust attenuation, gas ionisation mechanisms and gas stellar kinematics.
 - sf suppression in central regions of the galaxy (e.g., negative AGN feedback), enhanced sf in outer regions.
+
+
+# Sep 14
+
+#agn #disk #stellar-physics #interesting 
+
+[The Influence of Disk Composition on the Evolution of Stars in the Disks of Active Galactic Nuclei](https://arxiv.org/pdf/2209.05499.pdf)
+- disk capture stars or from stars via gravitational instability.
+- fresh gas replenishes hydrogen.
+- investigate how the helium abundance of AGN disks alters the evolution of stars embedded therein.
+- stars at a given mass are more luminous at higher helium mass fractions, and so undergo more radiation-driven mass-loss.
+- embedded stars tend to be less massive in disks with higher helium mass fractions.
+
+#black-hole-mass #quasar #smbh 
+
+[Statistical analysis of Al iii and C iii\] emission lines as virial black hole mass estimators in quasars](https://arxiv.org/pdf/2209.05526.pdf)
+- Al iii and C iii\] for estimating mass of quasars。
+- 309 quasars from SDSS dr16q
+- Aliii (and even Ciii\]) is a reliable virial black hole mass estimator for Pop. A and B objects.
