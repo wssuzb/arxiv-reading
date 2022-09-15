@@ -137,3 +137,9 @@
 - Al iii and C iii\] for estimating mass of quasars。
 - 309 quasars from SDSS dr16q
 - Aliii (and even Ciii\]) is a reliable virial black hole mass estimator for Pop. A and B objects.
+
+# Sep 15
+
+#agn  #reveiw #quasar 
+[Accretion disks, quasars and cosmology: meandering towards understanding](https://arxiv.org/pdf/2209.06563.pdf)
+- see last part for writing.
