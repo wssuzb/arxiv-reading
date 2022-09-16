@@ -143,3 +143,11 @@
 #agn  #reveiw #quasar 
 [Accretion disks, quasars and cosmology: meandering towards understanding](https://arxiv.org/pdf/2209.06563.pdf)
 - see last part for writing.
+
+# Sep 16
+#candidate #interesting #AGN #jwst #ceers 
+
+[A Candidate of a Least-Massive Black Hole at the First 1.1 Billion Years of the Universe](https://arxiv.org/pdf/2209.07325.pdf)
+- SED fitting favors either **a strong broad-line emitter** or even a super-Eddington accreting black hole (BH) emerging in a metal-poor host galaxy.
+- $L_\rm{bol}=2.5\pm0.3\times10^{44} erg s^{-1}$.
+- new AGN population at the first 1.1 billion years of univ.
