@@ -64,7 +64,7 @@
 
 #agn #dwarf-galaxy #imbh #variability #DAVOS 
 
-[Burke_2022_Dwarf AGNs from Variability for the Origins of Seeds (DAVOS): Intermediate-mass black hole demographics from optical synoptic surveys](https://arxiv.org/pdf/2207.04092.pdf)
+[Burke_2022_Dwarf AGNs from Variability for the Origins of Seeds (DAVOS): Intermediate-mass black hole demographics from optical synoptic surveys](https://arxiv.org/pdf/2207.04092.pdf) ^cfb98a
 - forward Monte Carlo model for forecasting the population of AGNs in dwarf galaxies via optical variability.
 - LSST, hourly cadence can constrain the IMBH mass.
 
