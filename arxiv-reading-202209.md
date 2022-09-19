@@ -83,6 +83,7 @@
 - support the X-ray illumination in AGN.
 
 # Sep 9
+
 #jwst #ceers #host-galaxy #quasar 
 
 [Ding_2022_Opening the era of quasar host studies at high redshift with JWST](https://arxiv.org/pdf/2209.03359.pdf)
@@ -145,9 +146,29 @@
 - see last part for writing.
 
 # Sep 16
+
 #candidate #interesting #AGN #jwst #ceers 
 
 [A Candidate of a Least-Massive Black Hole at the First 1.1 Billion Years of the Universe](https://arxiv.org/pdf/2209.07325.pdf)
 - SED fitting favors either **a strong broad-line emitter** or even a super-Eddington accreting black hole (BH) emerging in a metal-poor host galaxy.
 - $L_\rm{bol}=2.5\pm0.3\times10^{44} erg s^{-1}$.
 - new AGN population at the first 1.1 billion years of univ.
+
+# Sep 19
+
+#wise #dust #extinction #agn #NIR 
+
+[Mizukoshi_2022_Measurement of AGN dust extinction based on the near-infrared flux variability of WISE data](https://arxiv.org/pdf/2209.07933.pdf)
+- line-of-sight extinction of dusty torus for AGN (513 AGNs from WISE, BASS).
+- flux variation gradient (FVG) in $W1$ and $W2$ by using linear regression analysis.
+- $N_\rm{H}/A_V$ ratios of obscured AGNs are greater than Galactic ISM.
+	- distributed with a large scatter by at most two orders of magnitude.
+
+#cosmic-noon #quasar #obscured
+
+[VIARNWANNALUK_2022_The Obscured Fraction of Quasars at Cosmic Noon](https://arxiv.org/pdf/2209.07797.pdf)
+- X-ray selected AGN, obscured AGN increases with increasing redshift.
+- X-ray and optical/IR imaging datasets, $z>2$ AGNs sample by matching the XMM-SERVS X-ray and PSF-convolved photometric catalog, from $u^{*}$ to 4.5$\mu$m bands.
+- $76^{+4}_{-3}\%$ quasars above redshift 2 are obscured.
+- an increased contribution of obscured accretion at high redshift than that in the local universe.
+- also show a broad range of SEDs and morphology.
