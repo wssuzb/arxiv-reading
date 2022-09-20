@@ -174,3 +174,20 @@
 - also show a broad range of SEDs and morphology.
 
 
+# Sep 20
+
+#reionization #quasar #smbh 
+
+[The need for obscured supermassive black hole growth to explain quasar proximity zones in the epoch of reionization](https://arxiv.org/pdf/2209.08103.pdf)
+- proximity zones (pz) of quasars -> probe the SMBH, how to explain the pz size and black hole masses?
+- the short equilibration time of gas inside the proximity zones, small proximity zones can be readily explained by quasars that vary in brightness.
+- reconciling this with black hole mass estimates requires the black hole to continue to grow and accrete during its obscured phase
+- high-redshift proximity zones can be an effective tool to study quasar variability and black hole growth.
+
+#reionization #quasar #alma #X-shooter
+
+[FARINA_2022_The X–shooter/ALMA Sample of Quasars in the Epoch of Reionization. II. Black Hole Masses, Eddington Ratios, and the Formation 
+of the First Quasars](https://arxiv.org/pdf/2207.05113.pdf)
+- $M_{\rm{BH}}$ and $\lambda_{\rm{Edd}}$ for 38 quasars at $5.8\lesssim z\lesssim7.5$, C IV and Mg II lines.
+- $M_{\rm{BH}}$ on average $\sim4.6\times10^9M_\odot$, $0.1\lesssim\lambda_{\rm{Edd}}\lesssim1.0$, silmilar to $0.3\lesssim z\lesssim2.3$ quasars.
+- $z\gtrsim5.7$ black holes appear to be over–massive relative to their hosts.
