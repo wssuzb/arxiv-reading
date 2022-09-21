@@ -21,3 +21,5 @@
 - $N_{\rm{draw}}$, occupation fraction (IMBH/SMBH, $\lambda_{\rm{occ}}$)
 	- Light seeds: 
 	- heavy seeds
+- The model includes an inner advection-dominated accretion ﬂow (ADAF), and an outer truncated thin accretion disk and a jet (Nemmen et al. 2014; Yuan et al. 2007, 2005). **This model provides a reasonable description for low luminosity AGNs**, for calculation the disk luminosity, see [[AGN-NGC 4395]].
+- 

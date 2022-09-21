@@ -191,3 +191,38 @@ of the First Quasars](https://arxiv.org/pdf/2207.05113.pdf)
 - $M_{\rm{BH}}$ and $\lambda_{\rm{Edd}}$ for 38 quasars at $5.8\lesssim z\lesssim7.5$, C IV and Mg II lines.
 - $M_{\rm{BH}}$ on average $\sim4.6\times10^9M_\odot$, $0.1\lesssim\lambda_{\rm{Edd}}\lesssim1.0$, silmilar to $0.3\lesssim z\lesssim2.3$ quasars.
 - $z\gtrsim5.7$ black holes appear to be over–massive relative to their hosts.
+
+
+# Sep 21
+
+#gaia-dr3 #bbh #candidate 
+
+[Tanikawa_2022_Search for a Black Hole Binary in Gaia DR3 Astrometric Binary Stars with Spectroscopic Data](https://arxiv.org/pdf/2209.05632.pdf)
+- a candidate binary system consisting of a black hole (BH) and a red giant branch star from the Gaia DR3.
+- The primary (visible) star is a red giant, the secondary (dark) object has a mass >$5.35M_\odot$.
+- has the longest period (1352.25 $\pm$ 45.50 days) among discovered so far.
+
+#jet #agn #nls1 
+
+[Varglund_20222_Jetted narrow-line Seyfert 1 galaxies breaking the jet paradigm -- a comprehensive study of host galaxy morphologies](https://arxiv.org/pdf/2209.09270.pdf)
+- what host the jet?
+- study the host morphologies of 14 NLS1 galaxies, photometric decomposition of the host galaxy, and can model 12 sources, 9 have disk-like morphology.
+- disk-like galaxies as the predominat host type of jetted NLS1 galaxies, are able to launch and maintain relativistic jets.
+	- traditional jet paradigm: only massive elliptical galaxies.
+
+#imbh #accretion #smbh #X-ray 
+
+[Gultekin_2022_Intermediate-mass black holes and the fundamental plane of black hole accretion](https://arxiv.org/pdf/2209.09890.pdf)
+- new 5 GHz VLA, a sample of 8 active imbh with masses $10^{4.9} < M < 10 ^{6.1}M_\odot$, 5/8 at high significance.
+- the fundamental plane depends on their star-forming/composite/AGN classification based on optical narrow emission line ratios.
+
+#swift/bat #agn
+
+[Fukuchi_2022_H1821+643: The most X-ray and infrared luminous AGN in the Swift/BAT survey in the process of rapid stellar and supermassive black hole mass assembly](https://arxiv.org/pdf/2209.09255.pdf)
+- show that H1821+643 consumes a large amount of cold gas ($\dot{M}_{\rm{con}}$) with star-formation rate of log(SFR/$M_\odot$ yr$^{−1}$)=3.01 $\pm$ 0.04 and BH accretion rate of log($\dot{M}_{\rm{BH}}$/$M_\odot$ yr$^{−1}$)=1.20 $\pm$ 0.05.
+
+#quasar #smbh #survey #catalog 
+
+[Onken_2022_AllBRICQS: the All-sky BRIght, Complete Quasar Survey](https://arxiv.org/pdf/2209.09342.pdf)
+- the first results from the All-sky BRIght, Complete Quasar Survey (AllBRICQS).
+
