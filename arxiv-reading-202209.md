@@ -226,3 +226,35 @@ of the First Quasars](https://arxiv.org/pdf/2207.05113.pdf)
 [Onken_2022_AllBRICQS: the All-sky BRIght, Complete Quasar Survey](https://arxiv.org/pdf/2209.09342.pdf)
 - the first results from the All-sky BRIght, Complete Quasar Survey (AllBRICQS).
 
+
+# Sep 22
+
+#nustar #X-ray #obscured #dwarf-galaxy #imbh #occupation-fraction
+
+[Ansh_2022_NuSTAR observations of a heavily X-ray obscured AGN in the dwarf galaxy J144013+024744](https://arxiv.org/pdf/2209.09913.pdf)
+- dwarf Seyfert-2 galaxy J144013+024744, IMBH, $M_{\rm{BH}}\approx 10^{4-6}M_\odot$.
+- NuSTAR 100 ks, absorbed power law, Pexmon and a physical model (RXTorus).
+- J144013 + 024744 is the first type-2 dwarf galaxy.
+- Constraining the black hole occupation fraction in dwarf galaxies using X-ray observations.
+
+#optical #radio #agn #variability #gaia-dr3 
+
+[Secrest_2022_Optical-Radio Position Offsets are Inversely Correlated with AGN Photometric Variability](https://arxiv.org/pdf/2209.09928.pdf)
+- photometric variability from Gaia DR3 release, photometric variability is inversely correlated with the prevalence of optical-radio position offsets.
+- statistically significant optical-radio position offsets is 11%.hydrodynamics simulations
+
+#coevolution #smbh #host-galaxy #galaxy-merger #interesting 
+
+[Coevolution of Supermassive Black Holes and their Host Galaxies with Galaxy Mergers](https://arxiv.org/pdf/2209.10535.pdf)
+- SMBHs grew in a short period through the frequent mergers of galaxies (gas).
+- hydrodynamics simulations, using **[GIZMO](http://www.tapir.caltech.edu/~phopkins/Site/GIZMO.html)** code.
+- a molecular cloud model, separating molecular-gas particles from the atomic-gas particles and then evolving them independently.
+- molecular gas is substantially accreted onto the galactic centers that grows SMBHs from $10^{6}M_{\odot}$ to $10^9M_\odot$ within 300 Myr.
+
+
+#survey #euclid #photo-z 
+
+[The PAU Survey & Euclid: Improving broad-band photometric redshifts with multi-task learning](https://arxiv.org/pdf/2209.10161.pdf)
+- a multi-task learning (MTL) network.
+- MTL significantly reduces the photo-z bias for high-redshift galaxies.
+
