@@ -258,3 +258,20 @@ of the First Quasars](https://arxiv.org/pdf/2207.05113.pdf)
 - a multi-task learning (MTL) network.
 - MTL significantly reduces the photo-z bias for high-redshift galaxies.
 
+# Sep 23
+
+#ngc5548 #reverberation-mapping #agn #BLR #black-hole-mass 
+
+[Supermassive Black Hole and Broad-line Region in NGC 5548: Results from Five-season Reverberation Mapping](https://arxiv.org/pdf/2209.10853.pdf)
+- 5 season observations for NGC 5548, median sampling interval ranging from 1.25 to 3 days.
+- "M-shaped" structure is found in 2015 but disappeared after 2018.
+- SMBH mass: $M_{\rm{BH}}/10^7M_\odot=14.22$, std = 1.89.
+- a time lag of 3.5 years between the changes in the BLR size and optical luminosity.
+
+#nature-astronomy #X-ray #accretion #spectroscopy #interesting  
+
+[Accretion physics at high X-ray spectral resolution: New frontiers and game-changing science](https://arxiv.org/pdf/2209.10576.pdf)
+- (i) at the interface between accreting supermassive black holes and their host galaxies.
+- (ii) in unravelling the structures of accretion environments.
+- (iii) in resolving longstanding issues on the origins of energy and matter feedback.
+- (iv) to test mass-scaled unification of accretion and feedback.
