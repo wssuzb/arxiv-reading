@@ -275,3 +275,13 @@ of the First Quasars](https://arxiv.org/pdf/2207.05113.pdf)
 - (ii) in unravelling the structures of accretion environments.
 - (iii) in resolving longstanding issues on the origins of energy and matter feedback.
 - (iv) to test mass-scaled unification of accretion and feedback.
+
+
+# Sep 26
+
+#disk-size #agn #halflight-radius #microlensing 
+
+[Corrections to Estimated Accretion Disk Size due to Color Correction, Disk Truncation and Disk Wind](https://arxiv.org/pdf/2206.06262.pdf)
+- three corrections to the disk sizes: color correction, disk truncation, disk winds, **based on microlensing**.
+- an increase of the color correction with the increasing temperature can lead to a strong increase of the half-light radius even if this correction is close to unity at the temperature corresponding to an observed frequency.
+- proposed formalism for calculating the halflight radius.
