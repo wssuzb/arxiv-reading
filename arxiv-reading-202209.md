@@ -285,3 +285,19 @@ of the First Quasars](https://arxiv.org/pdf/2207.05113.pdf)
 - three corrections to the disk sizes: color correction, disk truncation, disk winds, **based on microlensing**.
 - an increase of the color correction with the increasing temperature can lead to a strong increase of the half-light radius even if this correction is close to unity at the temperature corresponding to an observed frequency.
 - proposed formalism for calculating the halflight radius.
+
+# Sep 27
+
+#starlink
+
+[The Sky Distribution and Magnitudes of Starlink Satellites by the Year 2027](https://arxiv.org/pdf/2209.12060.pdf)
+
+#catalog #agn #fermi-lat 
+
+[The Fourth Catalog of Active Galactic Nuclei Detected by the Fermi Large Area Telescope - Data Release 3](https://arxiv.org/pdf/2209.12070.pdf)
+
+#mhd #disk #agn #accretion 
+
+[GRRMHD Simulations of MAD Accretion Disks Declining from Super-Eddington to Sub-Eddington Accretion Rates](https://arxiv.org/pdf/2209.12081.pdf)
+- We confirm that mildly sub-Eddington disks can extract substantial power from a spinning BH.
+
