@@ -301,3 +301,19 @@ of the First Quasars](https://arxiv.org/pdf/2207.05113.pdf)
 [GRRMHD Simulations of MAD Accretion Disks Declining from Super-Eddington to Sub-Eddington Accretion Rates](https://arxiv.org/pdf/2209.12081.pdf)
 - We confirm that mildly sub-Eddington disks can extract substantial power from a spinning BH.
 
+# Sep 28
+
+#variability #radio-loud #nls1 
+
+[Optical Variability of the very Radio-Loud Narrow line Seyfert 1 galaxy, 1H 0323+342](https://arxiv.org/pdf/2209.13066.pdf)
+- 1H 0323+342 is optically one of the nearest and brightest very radio loud narrow line Seyfert 1 galaxies.
+- monitoring more than six and a half years.
+- microvariations? 
+- for the first time, identified and positively detected the presence of a low amplitude flux variations with an amplitude of ≈ 0.03 − 0.04 mag with a duration of this complete event $\approx$ 2 − 3 hours.
+
+#variability #accretion #black-hole #agn #X-ray 
+
+[Probing black-hole accretion through time variability](https://arxiv.org/pdf/2209.13467.pdf)
+- fast X-ray variability in stellar-mass BH systems to SMBH.
+- provide an overview of the currently most used analysis approaches for the study of X-ray variability.
+- aperiodic and quasi-periodic phenomena, and some of the proposed models.
