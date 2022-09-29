@@ -317,3 +317,19 @@ of the First Quasars](https://arxiv.org/pdf/2207.05113.pdf)
 - fast X-ray variability in stellar-mass BH systems to SMBH.
 - provide an overview of the currently most used analysis approaches for the study of X-ray variability.
 - aperiodic and quasi-periodic phenomena, and some of the proposed models.
+
+
+# Sep 29
+
+#galaxy #DES
+
+[Colour gradients of low-redshift galaxies in the DESI Legacy Imaging Survey](https://arxiv.org/pdf/2209.14166.pdf)
+- We find the colour gradients of most galaxies in our sample are negative (redder towards the centre).
+
+#outflow #feedback #agn 
+
+[Connection between Emission and Absorption Outflows through the Study of Quasars with Extremely-High Velocity Outflows](https://arxiv.org/pdf/2209.13642.pdf)
+- extremely high-velocity outflows (EHVOs), observed in 1.052 < $z_{\rm{em}}$ < 7.641.
+- We find that EHVOs, albeit their small numbers at the moment, appear to show distinct C iv and Heii properties.
+- We also find incipient trends with the maximum velocity of the outflows, which is similar to what has been previously found in BALQSOs
+- We find the bolometric luminosities, Eddington ratios, and black hole masses of our sample are overall very similar from the general quasar population upon considering their C iv emission properties.
