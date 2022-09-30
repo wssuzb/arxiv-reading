@@ -333,3 +333,25 @@ of the First Quasars](https://arxiv.org/pdf/2207.05113.pdf)
 - We find that EHVOs, albeit their small numbers at the moment, appear to show distinct C iv and Heii properties.
 - We also find incipient trends with the maximum velocity of the outflows, which is similar to what has been previously found in BALQSOs
 - We find the bolometric luminosities, Eddington ratios, and black hole masses of our sample are overall very similar from the general quasar population upon considering their C iv emission properties.
+
+
+# Sep 30
+
+#obscured #quasar #model
+
+[PHYSICAL MODELS FOR THE CLUSTERING OF OBSCURED AND UNOBSCURED QUASARS](https://arxiv.org/pdf/1912.01612.pdf)
+- obscured quasars reside in more massive dark matter halos than their unobscured counterparts.
+- the distribution of obscuring material depends on Eddington ratio or galaxy stellar mass.
+- evolutionary models, in which obscuration evolves on the typical timescale for black hole growth, are necessary to understand the observed clustering of mid-IR selected quasars.
+
+#spectroscopy #pipeline #DES 
+
+[The Spectroscopic Data Processing Pipeline for the Dark Energy Spectroscopic Instrument](https://arxiv.org/pdf/2209.14482.pdf)
+- the spectroscopic data processing pipeline of the Dark Energy Spectroscopic Instrument (DESI).
+- Ten spectrographs with three cameras each disperse the light from 5000 fibers onto 30 CCDs, covering the near UV to near infrared (3600 to 9800 $\AA$) with a spectral resolution ranging from 2000 to 5000.
+
+#black-hole-mass #interferometric #dust 
+
+[Towards measuring supermassive black hole masses with interferometric observations of the dust continuum](https://arxiv.org/pdf/2209.14410.pdf)
+- the relation between the sizes of the hot dust continuum and the BLR.
+- the continuum size measured using optical/near-infrared interferometry (OI) is roughly twice that measured by reverberation mapping (RM).
