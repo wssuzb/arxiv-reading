@@ -16,3 +16,12 @@
 - TESS data to identify 29 candidata AGN, through variability.
 - 8 of the 29 candidates have estimated black hole masses $\leq 10^6M_{\odot}$.
 - NGC 4395 and NGC 4449 high-confidence.
+
+# Oct 04
+
+#accretion #agn #interesting 
+
+[The Relation between the Optical Fe II Emission and the Dimensionless Accretion Rate for Active Galactic Nuclei](https://arxiv.org/pdf/2210.00684.pdf)
+- optical Fe ii emission has a connection with the accretion process.
+- 4037 quasars ($z<0.8$) with H$\beta$ line (SDSS) and 120 RM AGN.
+- find a strong correlation between the relative optical Fe II strength $R_{\rm{Fe}}$ and $\dot{M}$ for the SDSS subsample with the Spearman correlation coefficient $r_s$ of 0.727.

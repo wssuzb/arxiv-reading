@@ -279,7 +279,7 @@ of the First Quasars](https://arxiv.org/pdf/2207.05113.pdf)
 
 # Sep 26
 
-#disk-size #agn #halflight-radius #microlensing 
+#disk-size #agn #halflight-radius #microlensing #interesting 
 
 [Corrections to Estimated Accretion Disk Size due to Color Correction, Disk Truncation and Disk Wind](https://arxiv.org/pdf/2206.06262.pdf)
 - three corrections to the disk sizes: color correction, disk truncation, disk winds, **based on microlensing**.
