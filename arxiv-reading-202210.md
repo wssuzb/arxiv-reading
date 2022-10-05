@@ -25,3 +25,12 @@
 - optical Fe ii emission has a connection with the accretion process.
 - 4037 quasars ($z<0.8$) with H$\beta$ line (SDSS) and 120 RM AGN.
 - find a strong correlation between the relative optical Fe II strength $R_{\rm{Fe}}$ and $\dot{M}$ for the SDSS subsample with the Spearman correlation coefficient $r_s$ of 0.727.
+
+# Oct 05
+
+#accretion #corona #interesting 
+
+[The σHβ-based dimensionless accretion rate and its connection with the corona for AGN](https://arxiv.org/pdf/2210.01316.pdf)
+- It is found that there exists a non-linear relationship between the Eddington ratio ($L_{\rm{Bol}}/L_{\rm{Edd}}$) and $\dot{M}$ , i.e., $L_{\rm{Bol}}/L_{\rm{Edd}}\sim\dot{M}^{0.56\pm 0.01}$ .
+- This non-linear relationship comes from the accretion efficiency $\eta$.
+- We ﬁnd a strong bivariate correlation of the fraction of energy released in the corona $F_X$ with $\dot{M}$ and $M_{BH}$ , $F_X\propto\dot{M}^{−0.57\pm 0.05}M_{BH}^{−0.54\pm 0.06}$.
