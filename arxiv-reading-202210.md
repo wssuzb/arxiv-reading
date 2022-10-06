@@ -34,3 +34,27 @@
 - It is found that there exists a non-linear relationship between the Eddington ratio ($L_{\rm{Bol}}/L_{\rm{Edd}}$) and $\dot{M}$ , i.e., $L_{\rm{Bol}}/L_{\rm{Edd}}\sim\dot{M}^{0.56\pm 0.01}$ .
 - This non-linear relationship comes from the accretion efficiency $\eta$.
 - We ﬁnd a strong bivariate correlation of the fraction of energy released in the corona $F_X$ with $\dot{M}$ and $M_{BH}$ , $F_X\propto\dot{M}^{−0.57\pm 0.05}M_{BH}^{−0.54\pm 0.06}$.
+
+
+# Oct 06
+
+#reverberation-mapping #X-ray #Ark564 
+
+[X-ray Reverberation Mapping of Ark 564 using Gaussian Process Regression](https://arxiv.org/pdf/2210.01810.pdf)
+- Ark 564 is an extreme high-Eddington Narrow-line Seyfert 1 galaxy.
+- brightest, most rapidly variable soft X-ray AGN, and for having one of the lowest temperature coronae.
+- a 410 ks NuSTAR observation + two 115 ks XMM-Newton observations.
+- Fourier-resolved time lags + Gaussian processes to interpolate the NuSTAR gaps ([pylag](https://github.com/wilkinsdr/pylag)).
+- machine learning + Fourier-resolved timing + reverberation models.
+
+#reveiw #mir #agn 
+
+[The Past and Future of Mid-Infrared Studies of AGN](https://arxiv.org/pdf/2210.02307.pdf)
+
+
+#luminosity #bhmf #qlf #black-hole 
+
+[The Assembly of Black Hole Mass and Luminosity Functions of High-redshift Quasars via Multiple Accretion Episodes](https://arxiv.org/pdf/2210.02308.pdf)
+- we construct the QLF and BHMF of the early BH population that experiences multiple accretion bursts, in each of which a constant Eddington ratio is assigned following a Schechter distribution function.
+- suggests that several episodes of moderate super-Eddington accretion occur and each of them lasts for τ ' 20 − 30 Myr.
+- We find that the observed Eddington-ratio distribution function is skewed to a log-normal shape owing to detection limits of quasar surveys.
