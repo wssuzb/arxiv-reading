@@ -58,3 +58,20 @@
 - we construct the QLF and BHMF of the early BH population that experiences multiple accretion bursts, in each of which a constant Eddington ratio is assigned following a Schechter distribution function.
 - suggests that several episodes of moderate super-Eddington accretion occur and each of them lasts for τ ' 20 − 30 Myr.
 - We find that the observed Eddington-ratio distribution function is skewed to a log-normal shape owing to detection limits of quasar surveys.
+
+# Oct 07
+
+#selection-bais #smbh 
+
+[Quashing a suspected selection bias in galaxy samples having dynamically-measured supermassive black holes](https://arxiv.org/pdf/2210.02641.pdf)
+- check using galaxies common to the Spitzer Survey of Stellar Structure in Galaxies (S4G) and the Sloan Digital Sky Survey (SDSS).
+- $\sigma-M$ diagram.
+- We find that the stellar masses of galaxies with and without directly measured black holes had appeared offset from each other due to the use of inconsistent stellar mass-to-light ratios, $\gamma_∗$, for the optical and infrared data.
+
+#luminosity #quasar 
+
+[Demographics of 𝑧 ∼ 6 Quasars in the Black Hole Mass-Luminosity Plane](https://arxiv.org/pdf/2210.02518.pdf)
+- sample: $5.7 < z < 6.5$, 100 quasars.
+- forward modeling of BH masses and Eddington ratios, sample flux limits and uncertainties.
+- provide reliable constraints on the $z\sim 6$ black hole mass function at $M_{\rm{BH}}>10^{8.5}M_\odot$.
+- We also find that, at $4.5 < z < 6$, the number densities of more massive BHs tend to decline more rapidly with increasing redshift, contrary to the trend at $2.5<z<4.5$ reported previously.
