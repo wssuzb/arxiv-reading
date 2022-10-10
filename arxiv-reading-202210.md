@@ -75,3 +75,11 @@
 - forward modeling of BH masses and Eddington ratios, sample flux limits and uncertainties.
 - provide reliable constraints on the $z\sim 6$ black hole mass function at $M_{\rm{BH}}>10^{8.5}M_\odot$.
 - We also find that, at $4.5 < z < 6$, the number densities of more massive BHs tend to decline more rapidly with increasing redshift, contrary to the trend at $2.5<z<4.5$ reported previously.
+
+# Oct 10
+
+#dust #torus #agn 
+
+[Torus and polar dust dependence on AGN properties](https://arxiv.org/pdf/2210.03508.pdf)
+- We find that the smooth, clumpy and two-phase torus models and disc+wind models provide best fits for a comparable number of galaxies.
+- We fitted for the first time the nuclear IR SEDs (∼1-30 $\mu$m) obtained with high angular resolution data with six different torus models to find the model that most closely reproduces the nuclear IR SEDs of type 1 and 2 Seyfert galaxies.
