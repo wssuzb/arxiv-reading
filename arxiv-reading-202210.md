@@ -83,3 +83,19 @@
 [Torus and polar dust dependence on AGN properties](https://arxiv.org/pdf/2210.03508.pdf)
 - We find that the smooth, clumpy and two-phase torus models and disc+wind models provide best fits for a comparable number of galaxies.
 - We fitted for the first time the nuclear IR SEDs (∼1-30 $\mu$m) obtained with high angular resolution data with six different torus models to find the model that most closely reproduces the nuclear IR SEDs of type 1 and 2 Seyfert galaxies.
+
+
+# Oct 11
+
+#reverberation-mapping #BLR #black-hole-mass #agn #DES
+
+[OzDES Reverberation Mapping Program: H$\beta$ lags from the 6-year survey](https://arxiv.org/pdf/2210.03977.pdf)
+- 6 years OzDES, agn at $0.12 < z <0.71$.
+- consistent with previous measurements.
+
+#variability #psd #sf #agn 
+
+[Optical variability of eight FRII-type quasars with 13-yr photometric light curves](https://arxiv.org/pdf/2210.04058.pdf)
+- PSDs show a good fit to single power law forms, indicating a red-noise character of variability between $\sim$ 13 years and weeks timescales.
+- The absence of bends in the PSDs (change of slope from $\geq$ 1 to $\sim$ 0) on longer timescales indicates that optical variations are most likely caused by thermal instabilities in the accretion disk.
+
