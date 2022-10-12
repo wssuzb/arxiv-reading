@@ -99,3 +99,22 @@
 - PSDs show a good fit to single power law forms, indicating a red-noise character of variability between $\sim$ 13 years and weeks timescales.
 - The absence of bends in the PSDs (change of slope from $\geq$ 1 to $\sim$ 0) on longer timescales indicates that optical variations are most likely caused by thermal instabilities in the accretion disk.
 
+
+# Oct 12
+
+#sed #X-ray #model #variability #reverberation-mapping #important #code
+
+[Hagen_2022_A Full Spectral Timing Model for AGN. Untangling the Variability in Fairall 9](https://arxiv.org/pdf/2210.04924.pdf)
+- continuum reverberation mapping, re-processed SED.
+- time dependent SED for a given X-ray light-curve.
+- apply to Faraill 9, cannot produce UV to X-ray, variability intrinsic to the UV emission, evidence from changing-look agn.
+- amplitude of reprocessing can be increased by BLR/disk wind.
+- code: [AGNVAR](https://github.com/scotthgn/AGNvar)
+
+#variability #imbh #agn 
+
+[Intranight optical variability of low-mass Active Galactic Nuclei: A Pointer to blazar-like activity](https://arxiv.org/pdf/2210.05186.pdf)
+- intranight optical variability (INOV) of LMAGN.
+- 36 session campaign of intranight optical monitoring of 12 LMAGNs.
+- exhibit INOV at a level statistically comparable to that observed for blazars ($M_{\rm{BH}} > 10^{8-9} M_\odot$) and $\gamma$-ray NLS1 ($M_{\rm{BH}}\sim 10^{7}M_\odot$).
+- blazar-level activity can even be sustained by central engines with black holes near the upper limit for IMBHs.
