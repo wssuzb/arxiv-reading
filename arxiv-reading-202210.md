@@ -118,3 +118,15 @@
 - 36 session campaign of intranight optical monitoring of 12 LMAGNs.
 - exhibit INOV at a level statistically comparable to that observed for blazars ($M_{\rm{BH}} > 10^{8-9} M_\odot$) and $\gamma$-ray NLS1 ($M_{\rm{BH}}\sim 10^{7}M_\odot$).
 - blazar-level activity can even be sustained by central engines with black holes near the upper limit for IMBHs.
+
+
+
+# Oct 13
+
+#obscured #multi-wavelength #radio-quiet #agn 
+
+[Multi-wavelength observations of the obscuring wind in the radio-quiet quasar MR 2251-178](https://arxiv.org/pdf/2210.05939.pdf)
+- Obscuring winds.
+- XMM-Newton, NuSTAR, and HST/COS observations, 
+	- the transient X-ray obscuration event is expected to account for the UV outflow.
+	- The inferred distance ranges from the BLR to the dusty torus.
