@@ -130,3 +130,22 @@
 - XMM-Newton, NuSTAR, and HST/COS observations, 
 	- the transient X-ray obscuration event is expected to account for the UV outflow.
 	- The inferred distance ranges from the BLR to the dusty torus.
+
+
+
+# Oct 14
+
+#paper-writing
+
+[How to write and develop your astronomy research paper](https://arxiv.org/pdf/2110.05503.pdf)
+
+#paper-writing
+
+[How to plan your astronomy research paper in ten steps](https://arxiv.org/pdf/2207.12959.pdf)
+
+#jwst #obscured 
+
+[JWST unveils heavily obscured (active and passive) sources up to 𝑧 ∼ 13](https://arxiv.org/pdf/2208.02825.pdf)
+- we report an investigation of the deep JWST survey in the SMACS0723 cluster, NIRCam and MIRI images.
+- We characterise the properties of these sources via detailed SED modelling.
+- We highlight the identification of evolved systems, with stellar masses $M_\star\sim10^{9-11}M_\odot$  at 8 < $𝑧$ < 13 characterized by unexpectedly important dust content at those epochs ($A_V$ up to ∼ 5.8mag), challenging current model predictions.
