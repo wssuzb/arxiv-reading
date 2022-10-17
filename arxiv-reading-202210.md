@@ -149,3 +149,18 @@
 - we report an investigation of the deep JWST survey in the SMACS0723 cluster, NIRCam and MIRI images.
 - We characterise the properties of these sources via detailed SED modelling.
 - We highlight the identification of evolved systems, with stellar masses $M_\star\sim10^{9-11}M_\odot$  at 8 < $𝑧$ < 13 characterized by unexpectedly important dust content at those epochs ($A_V$ up to ∼ 5.8mag), challenging current model predictions.
+
+# Oct 17
+
+#disk #agn #important #interesting 
+
+[Temperature Fluctuations in Quasar Accretion Discs from Spectroscopic Monitoring Data](https://arxiv.org/pdf/2210.07452.pdf)
+- apply Neustadt & Kochanek 2022 to 100 quasars from SDSS.
+- consistent with NK22.
+- internal disc processes are the main driver for temperature fluctuations in AGN.
+
+#changing-look #agn #transient
+
+[A Transient ‘Changing-Look’ AGN Resolved on Month Timescales From First-Year SDSS-V Data](https://arxiv.org/pdf/2210.07258.pdf)
+- a new 'changing-look' event: quasar SDSS J162829.17+432948.5 at z = 0.2603.
+- 2020-2021, $\Delta g\approx1$ mag.
