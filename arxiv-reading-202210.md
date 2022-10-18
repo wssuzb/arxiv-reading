@@ -164,3 +164,22 @@
 [A Transient ‘Changing-Look’ AGN Resolved on Month Timescales From First-Year SDSS-V Data](https://arxiv.org/pdf/2210.07258.pdf)
 - a new 'changing-look' event: quasar SDSS J162829.17+432948.5 at z = 0.2603.
 - 2020-2021, $\Delta g\approx1$ mag.
+
+
+# Oct 18
+
+#bass #eddington-ratio #agn 
+
+[Probing the Structure and Evolution of BASS AGN through Eddington Ratios](https://arxiv.org/pdf/2210.08401.pdf)
+- constrain the $\lambda_{\rm{Edd}}$ , Swift-BAT/BASS DR2 survey.
+- at low Eddington ratios (log $\lambda_{\rm{Edd}}$ < −2), obscured AGN outnumber unobscured ones by a factor of $\sim$ 4.
+- At high Eddington ratios (log $\lambda_{\rm{Edd}}$ > −1), we suggest is mainly due to the small fraction of time spent in a highly obscured state.
+- We find that the low fraction of obscured AGN at high λEdd is primarily due to the fact that the covering factor drops very rapidly, with more than half the time spent with < 10% covering factor.
+- We also find that nearly all obscured AGN at high-λEdd exhibit some broad-lines. 
+
+#dust #nlr #sed 
+
+[Polar Dust Emission in Quasar IR SEDs and Its Correlation with Narrow Line Regions](https://arxiv.org/pdf/2210.08037.pdf)
+- We report correlations between the prominence of AGN forbidden line emission (commonly associated with the narrow line region) and the dust mid-IR energy (PG quasar, SDSS, Spitzer, WISE).
+- These observations indicate that, where the lines are strong, a large fraction of the AGN emission at λ $\gtrsim$ 5 µm comes from dust in the forbidden line regions.
+- The association of polar dust with the forbidden lines suggests an alternative to the receding torus hypothesis for the decrease in infrared output with increasing AGN luminosity.
