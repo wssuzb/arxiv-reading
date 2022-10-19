@@ -183,3 +183,14 @@
 - We report correlations between the prominence of AGN forbidden line emission (commonly associated with the narrow line region) and the dust mid-IR energy (PG quasar, SDSS, Spitzer, WISE).
 - These observations indicate that, where the lines are strong, a large fraction of the AGN emission at λ $\gtrsim$ 5 µm comes from dust in the forbidden line regions.
 - The association of polar dust with the forbidden lines suggests an alternative to the receding torus hypothesis for the decrease in infrared output with increasing AGN luminosity.
+
+
+# Oct 19
+
+#changing-look #agn #ngc4156
+
+[The optically elusive, changing-look active nucleus in NGC 4156](https://arxiv.org/pdf/2210.09341.pdf)
+- discovered in 2019 at Telescopio Nazionale Galileo (TNG).
+- reveraled the appearence of broad-line components (H$\alpha$ and H$\beta$), along with a rise of continuum, transition from type 2 to type1.
+- 2022 follow-up observations, rising continuum no deteceted.
+- change in the accretion activity of NGC 4156.
