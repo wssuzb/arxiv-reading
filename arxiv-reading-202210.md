@@ -194,3 +194,22 @@
 - reveraled the appearence of broad-line components (H$\alpha$ and H$\beta$), along with a rise of continuum, transition from type 2 to type1.
 - 2022 follow-up observations, rising continuum no deteceted.
 - change in the accretion activity of NGC 4156.
+
+
+# Oct 20
+
+#microlensing #agn #smbh #interesting #important 
+
+[Resolving the Vicinity of Supermassive Black Holes with Gravitational Microlensing](https://arxiv.org/pdf/2210.10500.pdf)
+- we have developed detailed simulations of caustic-crossing light curves for LSST observations.
+- a realistic analytic model of the inner accretion disk.
+- We demonstrate that an inflection in the caustic-crossing light curve due to the innermost stable circular orbit (ISCO) can be detected in reasonable follow-up observations.
+- a convolutional neural network can be trained to predict ISCO size.
+
+#dust #agn #outflow 
+
+[Radiation pressure-driven outflows from dusty AGN](https://arxiv.org/pdf/2210.10598.pdf)
+- we conduct radiation simulation using the cloudy code to deduce the radiative force.
+- we also investigate how the outflow condition is affected by various AGN and dust properties and distribution.
+- the dust abundance has the largest effect on the $N_{\rm{H}}$ − $\lambda_{\rm{Edd}}$ diagram since the higher the abundance.
+- SED depends on the mass of the black hole and its spin.
