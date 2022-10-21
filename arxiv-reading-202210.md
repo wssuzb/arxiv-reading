@@ -213,3 +213,17 @@
 - we also investigate how the outflow condition is affected by various AGN and dust properties and distribution.
 - the dust abundance has the largest effect on the $N_{\rm{H}}$ − $\lambda_{\rm{Edd}}$ diagram since the higher the abundance.
 - SED depends on the mass of the black hole and its spin.
+
+
+# Oct 21
+
+#gravitational-lense #lens #neural-networks #code 
+
+[LeMoN: Lens Modelling with Neural networks – I. Automated modelling of strong gravitational lenses with Bayesian Neural Networks](https://arxiv.org/pdf/2210.10793.pdf)
+- LeMoN (Lens Modelling with Neural networks), based on Bayesian Neural Netwrok.
+- [LeMon](https://github.com/fab-gentile/LeMoN)
+
+#psf #passata 
+
+[PSF nowcast using PASSATA simulations - Towards a PSF forecast](https://arxiv.org/pdf/2210.11244.pdf)
+- we study the feasibility of using such tool for nowcast application (present-time forecast)
