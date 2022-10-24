@@ -227,3 +227,14 @@
 
 [PSF nowcast using PASSATA simulations - Towards a PSF forecast](https://arxiv.org/pdf/2210.11244.pdf)
 - we study the feasibility of using such tool for nowcast application (present-time forecast)
+
+
+# Oct 24
+
+#sed #sdss #accretion #disk #interesting #important 
+
+[The SOUX AGN sample: Optical/UV/X-ray SEDs and the nature of the disc](https://arxiv.org/pdf/2210.11977.pdf)
+- This predicts the overall SED fairly well for 7.5 < log($M_{\rm{BH}}/M_\odot$) < 9.0 over a wide range in $L/L_{\rm{Edd}}$, but at higher masses the outer disc spectra in the model are far too cool to match the data.
+- We show for the ﬁrst time that this cannot be matched by standard disc models with high black hole spin.
+- The data do not match the predictions made by any current accretion ﬂow model.
+- Either the disc is completely covered by a warm Comptonisation layer whose properties change systematically with $L/L_{\rm{Edd}}$, or the accretion ﬂow structure is fundamentally diﬀerent to that of the standard disc models.
