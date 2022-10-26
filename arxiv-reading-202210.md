@@ -238,3 +238,23 @@
 - We show for the ﬁrst time that this cannot be matched by standard disc models with high black hole spin.
 - The data do not match the predictions made by any current accretion ﬂow model.
 - Either the disc is completely covered by a warm Comptonisation layer whose properties change systematically with $L/L_{\rm{Edd}}$, or the accretion ﬂow structure is fundamentally diﬀerent to that of the standard disc models.
+
+# Oct 26
+
+#fairall9 #agn #time-lag #interesting #important 
+
+[A Negative Long Lag from the Optical to the UV Continuum in Fairall 9](https://arxiv.org/pdf/2210.13489.pdf)
+- the blue bands lag the red bands in Fairall 9
+- we expect longer lags to exist in AGN light curves that travel inward on longer timescales, tracing the accretion process itself.
+- the detection of long-timescale lags ($\sim$ −70 days) in Fairall 9.
+
+#interesting #dwarf-galaxy 
+
+[The environment of AGN dwarf galaxies at z∼0.7 from the VIPERS survey](https://arxiv.org/pdf/2210.13486.pdf)
+- Our work demonstrates that AGN and non-AGN dwarf galaxies reside in *similar environments at intermediate redshift* suggesting that the environment is not an important factor in triggering AGN activity already since z = 0.9.
+- Dwarf galaxies show a strong preference for low-density environments, independently of whether they host an AGN or not.
+- the first study of dwarf galaxies hosting AGN at z > 0.5.
+
+#jet #reveiw #agn 
+
+[Polarization Observations of AGN Jets: Past and Future](https://arxiv.org/pdf/2210.13819.pdf)
