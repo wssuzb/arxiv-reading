@@ -258,3 +258,14 @@
 #jet #reveiw #agn 
 
 [Polarization Observations of AGN Jets: Past and Future](https://arxiv.org/pdf/2210.13819.pdf)
+
+
+
+# Oct 27
+
+#blazars #variability #TESS 
+
+[Exploring Short-Term Optical Variability of Blazars Using TESS](https://arxiv.org/pdf/2210.14752.pdf)
+- The results show that the sources exhibit significant variability with fractional variability spanning between 1.41% and 53.84%.
+- flux distribution: normal and lognormal probability density function models.
+- This suggests that the days-timescale optical variability is contributed either by two different emission zones or two distinct states of short-term activity in blazars.
