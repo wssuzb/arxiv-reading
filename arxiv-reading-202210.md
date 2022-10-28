@@ -269,3 +269,17 @@
 - The results show that the sources exhibit significant variability with fractional variability spanning between 1.41% and 53.84%.
 - flux distribution: normal and lognormal probability density function models.
 - This suggests that the days-timescale optical variability is contributed either by two different emission zones or two distinct states of short-term activity in blazars.
+
+# Oct 28
+
+#imbh 
+
+[A vast population of wandering and merging IMBHs at cosmic noon](https://arxiv.org/pdf/2210.14960.pdf)
+- cosmological hydrodynamical simulation Astrid, IMBH seeds.
+- Dynamical friction is largely inefficient at sinking and merging seed IMBHs at high-z.
+
+#reveiw #sed #accretion 
+
+[High Eddington accreting quasar spectra as discovery tools: current state and challenges](https://arxiv.org/pdf/2210.15041.pdf)
+
+
