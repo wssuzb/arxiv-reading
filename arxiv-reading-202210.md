@@ -283,3 +283,11 @@
 [High Eddington accreting quasar spectra as discovery tools: current state and challenges](https://arxiv.org/pdf/2210.15041.pdf)
 
 
+# Oct 31
+
+#mir #echoes #transient #tde 
+
+[Mid-Infrared Echoes of Ambiguous Nuclear Transients Reveal High Dust Covering Fractions: Evidence for Dusty Tori](https://arxiv.org/pdf/2210.15681.pdf)
+- use NEOWISE mission and low-cadence mapping to study mid-infrared dust reprocessing echoes of ANTs.
+- 19 ANTs, significant MIR flares in 18, can estimate an IR luminosity and temperature evolution.
+- high covering factions in ANT host galaxies, the presence of a dusty torus.
