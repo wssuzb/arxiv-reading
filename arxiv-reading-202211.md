@@ -18,3 +18,14 @@
 - An intimate connection between the wind and the source state is suggested, potentially unveiling the detailed accretion and variability mechanism.
 - larger statistical sample of ULX winds?
 - limited by the variability timescales that are too short to be sampled with the current instruments.
+
+# Nov 3
+
+#type-2 #agn #variability #ztf 
+
+[The Type 1 and Type 2 AGN dichotomy according to their ZTF optical variability](https://arxiv.org/pdf/2211.00770.pdf)
+- 不同光变特征区分obscured(Type2 AGNs), unobscured(Type 1s).
+- ZTF 2.5 年光变曲线，$\sim$ 15000 AGNs (SDSS DR16)中匹配缺少宽发射线的type2.
+- weak-type1比type2的光变大了一个数量级，drw 和 sf 可以有效区分weak-type1和type2.
+- 11%的type2有光线光变
+- CL/CS AGN？
