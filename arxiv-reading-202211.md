@@ -29,3 +29,11 @@
 - weak-type1比type2的光变大了一个数量级，drw 和 sf 可以有效区分weak-type1和type2.
 - 11%的type2有光线光变
 - CL/CS AGN？
+
+# Nov 7
+
+#black-hole 
+
+[A Black Hole Kicked At Birth: MAXI J1305-704](https://arxiv.org/pdf/2211.02158.pdf)
+- the low-mass X-ray binary MAXI J1305-704.
+- We find that if MAXI J1305-704 formed via isolated binary evolution in the thick Galactic disk, then its black hole received a natal kick of at least 70 km/s with 95% confidence.
