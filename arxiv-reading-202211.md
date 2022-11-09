@@ -37,3 +37,18 @@
 [A Black Hole Kicked At Birth: MAXI J1305-704](https://arxiv.org/pdf/2211.02158.pdf)
 - the low-mass X-ray binary MAXI J1305-704.
 - We find that if MAXI J1305-704 formed via isolated binary evolution in the thick Galactic disk, then its black hole received a natal kick of at least 70 km/s with 95% confidence.
+
+
+# Nov 9
+
+#changing-look #variability #ngc5273
+
+[Once is an Instance, Twice is a Hobby: Multiple Optical and Near-Infrared Changing-Look Events in NGC 5273](https://arxiv.org/pdf/2211.03801.pdf)
+- IR, optical, UV and X-ray data from 2000 to 2022.
+- changing-look event occurred between 2011 and 2014, type 1.8/1.9 to type 1.
+- In 2022, again a type 1.
+
+#obscured #X-ray #agn 
+
+[The demographics of obscured AGN from X-ray spectroscopy guided by multiwavelength information](https://arxiv.org/pdf/2211.03800.pdf)
+- sets new constraints on the demographics of this population.
