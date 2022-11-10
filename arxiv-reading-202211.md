@@ -52,3 +52,11 @@
 
 [The demographics of obscured AGN from X-ray spectroscopy guided by multiwavelength information](https://arxiv.org/pdf/2211.03800.pdf)
 - sets new constraints on the demographics of this population.
+
+# Nov10
+
+#changing-look #agn #swift/bat #bass 
+
+[BASS XXXIX: Swift-BAT AGN with changing-look optical spectra](https://arxiv.org/pdf/2211.04478.pdf)
+- 21 AGN from BASS are now known to display CL behaviour.
+- We derive a CL rate of 0.7-6.2 per cent on 10-25 year time-scales, and show that many transitions happen within at most a few years.
