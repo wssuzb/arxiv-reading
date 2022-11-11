@@ -60,3 +60,15 @@
 [BASS XXXIX: Swift-BAT AGN with changing-look optical spectra](https://arxiv.org/pdf/2211.04478.pdf)
 - 21 AGN from BASS are now known to display CL behaviour.
 - We derive a CL rate of 0.7-6.2 per cent on 10-25 year time-scales, and show that many transitions happen within at most a few years.
+
+# Nov11
+
+#changing-look #reveiw 
+
+[Changing-look Active Galactic Nuclei](https://arxiv.org/pdf/2211.05132.pdf)
+
+#agn #dwarf-galaxy #quenching
+
+[AGN quenching in simulated dwarf galaxies](https://arxiv.org/pdf/2211.05275.pdf)
+- within the Romulus25 cosmological hydrodynamic simulation.
+- Our results indicate the possibility of substantial star formation suppression via MBH feedback within dwarf galaxies in the field.
