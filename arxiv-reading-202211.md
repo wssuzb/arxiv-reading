@@ -72,3 +72,14 @@
 [AGN quenching in simulated dwarf galaxies](https://arxiv.org/pdf/2211.05275.pdf)
 - within the Romulus25 cosmological hydrodynamic simulation.
 - Our results indicate the possibility of substantial star formation suppression via MBH feedback within dwarf galaxies in the field.
+
+
+# Nov 14
+
+#quasar #star-formation-rate
+
+[Is the star formation rate in z ∼ 6 quasars overestimated?](https://arxiv.org/pdf/2211.05790.pdf)
+- We test the validity of this assumption by combining cosmological hydrodynamic simulations with radiative transfer calculations.
+- suggesting that AGN effectively heat the bulk of dust in the host galaxy.
+- We find that the SFR is overestimated by a factor of $\sim$ 3 for AGN bolometric luminosities of $L_\rm{bol}=10^{12}L_\odot$.
+
