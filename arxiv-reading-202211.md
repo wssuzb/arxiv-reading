@@ -83,3 +83,10 @@
 - suggesting that AGN effectively heat the bulk of dust in the host galaxy.
 - We find that the SFR is overestimated by a factor of $\sim$ 3 for AGN bolometric luminosities of $L_\rm{bol}=10^{12}L_\odot$.
 
+
+# Nov 15
+
+#interesting #variability #X-ray #uv #correlation #agn 
+
+[Explaining the moderate UV/X-ray correlation in AGN](https://arxiv.org/pdf/2211.06963.pdf)
+- 考虑X-ray源的几何变化（高度变化），UV/X-ray的低相关性是照射模型可以预期的。
