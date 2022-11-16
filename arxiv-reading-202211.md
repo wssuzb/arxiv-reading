@@ -90,3 +90,17 @@
 
 [Explaining the moderate UV/X-ray correlation in AGN](https://arxiv.org/pdf/2211.06963.pdf)
 - 考虑X-ray源的几何变化（高度变化），UV/X-ray的低相关性是照射模型可以预期的。
+
+# Nov 16
+
+#sed #bolometric-correction 
+
+[The WISSH quasars project XI. The mean Spectral Energy Distribution and Bolometric Corrections of the most luminous quasars](https://arxiv.org/pdf/2211.07677.pdf)
+- ![[Screen Shot 2022-11-16 at 7.07.39 PM.png]]
+
+#emission-lines #optical 
+
+[A New Physical Picture for AGNs Lacking Optical Emission Lines](https://arxiv.org/pdf/2211.07679.pdf)
+- 500 低红移 X-ray AGN，XMM-Newton 和 SDSS 观测
+- optically dull AGN，缺失光学发射线的type 2 AGN， 通常处于$L_[\rm{OIII}]-\it{L}_\rm{X}$分布的尾巴
+
