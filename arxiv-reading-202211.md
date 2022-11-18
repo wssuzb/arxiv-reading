@@ -104,3 +104,18 @@
 - 500 低红移 X-ray AGN，XMM-Newton 和 SDSS 观测
 - optically dull AGN，缺失光学发射线的type 2 AGN， 通常处于$L_[\rm{OIII}]-\it{L}_\rm{X}$分布的尾巴
 
+
+# Nov 18
+
+#telescope #euclid 
+
+[Euclid in a nutshell](https://arxiv.org/pdf/2211.09668.pdf)
+- 暗能量/引力，引力透镜和星系团
+- wide imaging and sepctroscopy 巡天，光学和近红外波段，覆盖 $\sim$ 15000 deg$^2$，大约6年，1.2m镜子
+- ![[Screen Shot 2022-11-18 at 2.49.54 PM.png]]
+
+#image #method #reveiw #code 
+
+[Statistical Inference for Coadded Astronomical Images](https://arxiv.org/pdf/2211.09300.pdf)
+- We present a principled Bayesian approach for performing light source parameter inference with coadded astronomical images.
+- code: [BLISS](https://github.com/prob-ml/bliss)
