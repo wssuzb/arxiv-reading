@@ -119,3 +119,13 @@
 [Statistical Inference for Coadded Astronomical Images](https://arxiv.org/pdf/2211.09300.pdf)
 - We present a principled Bayesian approach for performing light source parameter inference with coadded astronomical images.
 - code: [BLISS](https://github.com/prob-ml/bliss)
+
+
+# Nov 21
+
+#ngc4593 #reverberation-mapping #time-lag 
+
+[Timescale-dependent X-ray to UV time lags of NGC 4593 using high-intensity XMM-Newton observations with Swift and AstroSat](https://arxiv.org/pdf/2211.10229.pdf)
+- 更短的采样时间，XMM-Newton，PN X-ray和OM UV（UVW1，2910A）+Swift X-ray，UV/optical的准同时监测。
+- UVW1滞后X-ray 29.5ks，为之前结果的一半，黑洞质量为$7.63\times10^6M_\odot$
+- 支持照射模型，来自BLR和Pashchen的连续谱污染主导。
