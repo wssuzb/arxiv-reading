@@ -129,3 +129,11 @@
 - 更短的采样时间，XMM-Newton，PN X-ray和OM UV（UVW1，2910A）+Swift X-ray，UV/optical的准同时监测。
 - UVW1滞后X-ray 29.5ks，为之前结果的一半，黑洞质量为$7.63\times10^6M_\odot$
 - 支持照射模型，来自BLR和Pashchen的连续谱污染主导。
+
+# Nov 23
+
+#blr #reverberation-mapping #agn 
+
+[Rarefied Broad-Line Regions in Active Galactic Nuclei: Anomalous Responses in Reverberation Mapping and Implications for Weak-Emission Line Quasars](https://arxiv.org/pdf/2211.11966.pdf)
+- rarefied BLRs (with low gas densities).
+- BLR的密度影响RM
