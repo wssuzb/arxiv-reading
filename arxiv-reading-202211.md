@@ -137,3 +137,12 @@
 [Rarefied Broad-Line Regions in Active Galactic Nuclei: Anomalous Responses in Reverberation Mapping and Implications for Weak-Emission Line Quasars](https://arxiv.org/pdf/2211.11966.pdf)
 - rarefied BLRs (with low gas densities).
 - BLR的密度影响RM
+
+
+# Nov 30
+
+#soft-xray #X-ray #agn #interesting 
+
+[Association of Optical, Ultraviolet and Soft X-ray excess Emissions in AGNs](https://arxiv.org/pdf/2211.15077.pdf)
+- 1181个AGNs样本（SDSS），包括Balmer线，光学连续谱，MgII线和UV连续谱，研究和软X-ray光度的关系。
+- 线性回归分析，FWHM(MgII)$\propto$FWHM$^{0.554}$(H$\beta$)，UV辐射起源于宽线的外部，和Hbeta辐射有关，$L_{\rm{MgII}}\propto L_{\rm{H\beta}}^{0.82}$。
