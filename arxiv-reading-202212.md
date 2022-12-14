@@ -22,3 +22,21 @@
 [Using the SourceXtractor++ package for data reduction](https://arxiv.org/pdf/2212.02428.pdf)
 - object detection and morphology determination
 - code: [SourceXtractorPlusPlus](https://github.com/astrorama/SourceXtractorPlusPlus)
+
+
+# Dec 14
+
+#ic4329A #reverberation-mapping #black-hole-mass #agn #BLR 
+
+[Reverberation Mapping of IC 4329A](https://arxiv.org/pdf/2212.05954.pdf)
+- edge-on spiral IC 4329A
+- time delays: $H\beta=16.3$, $H\gamma=16.0$.
+- consistent with predicted R-L relationship.
+- $M_{\rm{BH}}=6.8\times10^{7}M_{\odot}$.
+
+#X-ray #dual-AGN
+
+[The X-ray view of optically selected dual AGN](https://arxiv.org/pdf/2212.05837.pdf)
+- speration of 3–97 kpc.
+- as expected from simulations, it still remains unclear how this obscuration evolves along the merger phase.
+
