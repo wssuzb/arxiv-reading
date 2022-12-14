@@ -14,7 +14,7 @@
 - 光变，ztf g-band，黑洞质量$10^4-10^8M_\odot$.
 - adding 78 new low-mass AGNs to the relation. 
 - confirm $M_{\rm{BH}}-\tau_{\rm{DRW}}$, the virial BH mass estimates for these AGNs are generally reasonable.
-
+- selected from Greene & Ho (2007) ("GH07"), Reines & Volonteri (2015) ("RV15"), Chilingarian et al. (2018) ("Chinlingarian+18"), and Liu et al. (2018) ("Liu+18").
 
 
 #code #sex #sourcextractor
