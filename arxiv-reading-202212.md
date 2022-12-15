@@ -23,6 +23,8 @@
 - object detection and morphology determination
 - code: [SourceXtractorPlusPlus](https://github.com/astrorama/SourceXtractorPlusPlus)
 
+[Coma Off It: Removing Variable Point Spread Functions from Astronomical Images](https://arxiv.org/pdf/2212.02594.pdf)
+- code: [regularizepsf](https://punch-mission.github.io/regularizepsf/quickstart.html)
 
 # Dec 14
 
