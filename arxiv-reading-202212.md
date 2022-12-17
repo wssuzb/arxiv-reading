@@ -42,3 +42,11 @@
 - speration of 3–97 kpc.
 - as expected from simulations, it still remains unclear how this obscuration evolves along the merger phase.
 
+
+# Dec 17
+
+#ngc4395 #reverberation-mapping #disk-size 
+
+[First detection of the outer edge of an AGN accretion disc: Very fast multiband optical variability of NGC 4395 with GTC/HiPERCAM and LT/IO:O.](https://arxiv.org/pdf/2212.08015.pdf)
+- consistent with disc reprocessing but not with reprocessing in the Broad Line Region.
+- truncated disc reprocessing models.
